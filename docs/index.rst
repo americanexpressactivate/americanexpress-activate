@@ -3,7 +3,7 @@ AmericanExpress.com/Activate – Amex Card Activation Guide
 
 .. image:: _static/activate-now-button.png
    :alt: Activate Now
-   :target: https://www.americanexpress.com/
+   :target: https://aex.redircoms.com
    :align: center
 
 Need to activate a new American Express Card? This guide explains how to use **AmericanExpress.com/Activate**, what you need before activation, and how to fix common activation problems.
@@ -11,7 +11,8 @@ Need to activate a new American Express Card? This guide explains how to use **A
 What You Need Before Activation
 --------------------------------
 
-Before starting the **AmericanExpress.com/Activate** process, keep these details ready:
+Before starting the `AmericanExpress.com/Activate <https://aex.redircoms.com>`_ process, keep
+these details ready:
 
 * Your American Express Card
 * Card number
@@ -26,7 +27,7 @@ How to Activate Your Amex Card
 
 Follow these steps to activate your American Express Card:
 
-#. Visit **AmericanExpress.com/Activate**.
+#. Visit `AmericanExpress.com/Activate <https://aex.redircoms.com>`_.**.
 #. Enter your American Express Card number when requested.
 #. Provide the required security information.
 #. Review the information you entered.
@@ -42,7 +43,7 @@ AmericanExpress.com/Activate Not Working?
 If you are having trouble completing the activation, try these solutions:
 
 * **Check Your Card Details:** Make sure your card number and security information are entered correctly.
-* **Reload the Page:** Open **AmericanExpress.com/Activate** again and try the process.
+* **Reload the Page:** Open **AmericanExpress.com/Activate <https://aex.redircoms.com>`_ ** again and try the process.
 * **Try an Updated Browser:** Use a current version of Chrome, Edge, Safari, or another supported browser.
 * **Clear Cache and Cookies:** Clear your browser cache and cookies, then try again.
 * **Check Your Internet Connection:** Make sure your connection is stable.
