@@ -1,10 +1,6 @@
 AmericanExpress.com/Activate – Amex Card Activation Guide
 =========================================================
 
-.. image:: _static/americanexpress-banner.jpg
-   :alt: American Express Card Activation Guide
-   :class: custom-banner
-
 .. image:: _static/activate-now-button.png
    :alt: Activate Now
    :target: https://www.americanexpress.com/
