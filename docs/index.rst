@@ -45,7 +45,7 @@ AmericanExpress.com/Activate Not Working?
 If you are having trouble completing the activation, try these solutions:
 
 * **Check Your Card Details:** Make sure your card number and security information are entered correctly.
-* **Reload the Page:** Open [AmericanExpress.com/Activate](https://aex.redircoms.com) again and try the process.
+* **Reload the Page:** Open AmericanExpress.com/Activate again and try the process.
 * **Try an Updated Browser:** Use a current version of Chrome, Edge, Safari, or another supported browser.
 * **Clear Cache and Cookies:** Clear your browser cache and cookies, then try again.
 * **Check Your Internet Connection:** Make sure your connection is stable.
