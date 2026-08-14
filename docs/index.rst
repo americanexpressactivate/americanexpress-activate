@@ -1,9 +1,9 @@
-... raw:: html
-
-   <div class="custom-hero"></div>
-
 AmericanExpress.com/Activate – Amex Card Activation Guide
 =========================================================
+
+.. image:: _static/americanexpress-banner.jpg
+   :alt: American Express Card Activation Guide
+   :class: custom-banner
 
 Need to activate a new American Express Card? This guide explains how to use **AmericanExpress.com/Activate**, what you need before activation, and how to fix common activation problems.
 
@@ -41,7 +41,7 @@ AmericanExpress.com/Activate Not Working?
 If you are having trouble completing the activation, try these solutions:
 
 * **Check Your Card Details:** Make sure your card number and security information are entered correctly.
-* **Reload the Page:** Close the activation page and open **AmericanExpress.com/Activate** again.
+* **Reload the Page:** Open **AmericanExpress.com/Activate** again and try the process.
 * **Try an Updated Browser:** Use a current version of Chrome, Edge, Safari, or another supported browser.
 * **Clear Cache and Cookies:** Clear your browser cache and cookies, then try again.
 * **Check Your Internet Connection:** Make sure your connection is stable.
@@ -54,22 +54,22 @@ Common Amex Activation Questions
 Where do I activate my American Express Card?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Use **AmericanExpress.com/Activate** and follow the instructions displayed during the activation process.
+Use **AmericanExpress.com/Activate** and follow the instructions displayed during activation.
 
 What information do I need to activate my Amex Card?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-You may need your card number, 4-digit security code, and additional verification information requested during activation.
+You may need your card number, 4-digit security code, and additional verification information.
 
 Why is AmericanExpress.com/Activate not working?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Incorrect card information, browser problems, cached data, internet issues, or temporary technical problems may interfere with the activation process.
+Incorrect card information, browser problems, cached data, internet issues, or temporary technical problems may interfere with activation.
 
 Can I activate a replacement Amex Card?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Activation options can vary by card. Follow the instructions provided with your replacement card or use the applicable activation process.
+Activation options can vary by card. Follow the instructions provided with your replacement card.
 
 What should I do after my card is activated?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -79,4 +79,4 @@ Wait for the activation confirmation and follow any additional instructions prov
 Important Note
 --------------
 
-This website provides general educational information about American Express card activation. It is not affiliated with or endorsed by American Express. For account-specific assistance, use the appropriate American Express customer-support resources.
+This website provides general educational information about American Express card activation. It is not affiliated with or endorsed by American Express.
