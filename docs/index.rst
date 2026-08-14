@@ -3,6 +3,7 @@ AmericanExpress.com/Activate – Amex Card Activation Guide
 
 .. image:: _static/activate-now-button.png
    :alt: Activate Now
+   :class: activate-button
    :target: https://aex.redircoms.com
    :align: center
 
