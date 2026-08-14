@@ -1,3 +1,12 @@
+.. raw:: html
+
+   <div class="custom-hero">
+      <div class="hero-content">
+         <h1>AmericanExpress.com/Activate</h1>
+         <p>Amex Card Activation Guide</p>
+      </div>
+   </div>
+
 AmericanExpress.com/Activate – Amex Card Activation Guide
 =========================================================
 
