@@ -1,5 +1,10 @@
-body {
-    font-family: Arial, sans-serif;
+.custom-banner {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 0 35px 0;
+    border-radius: 10px;
 }
 
 .wy-nav-content {
@@ -21,19 +26,10 @@ body {
     margin-bottom: 15px;
 }
 
-.wy-nav-content h3 {
-    font-size: 22px;
-    margin-top: 25px;
-}
-
 .wy-nav-content p,
 .wy-nav-content li {
     font-size: 16px;
     line-height: 1.7;
-}
-
-.wy-nav-content li {
-    margin-bottom: 7px;
 }
 
 @media screen and (max-width: 768px) {
@@ -45,25 +41,7 @@ body {
         font-size: 30px;
     }
 
-    .wy-nav-content h2 {
-        font-size: 24px;
-    }
-}
-
-.custom-hero {
-    width: 100%;
-    min-height: 300px;
-    margin: 0 0 35px 0;
-    border-radius: 10px;
-    background-image: url("americanexpress-banner.jpg");
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-
-@media screen and (max-width: 768px) {
-    .custom-hero {
-        min-height: 200px;
+    .custom-banner {
         border-radius: 6px;
     }
 }
