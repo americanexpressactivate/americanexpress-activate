@@ -5,6 +5,11 @@ AmericanExpress.com/Activate – Amex Card Activation Guide
    :alt: American Express Card Activation Guide
    :class: custom-banner
 
+.. image:: _static/activate-now-button.png
+   :alt: Activate Now
+   :target: https://www.americanexpress.com/
+   :align: center
+
 Need to activate a new American Express Card? This guide explains how to use **AmericanExpress.com/Activate**, what you need before activation, and how to fix common activation problems.
 
 What You Need Before Activation
