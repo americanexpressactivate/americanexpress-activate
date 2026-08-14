@@ -6,7 +6,7 @@ AmericanExpress.com/Activate – Amex Card Activation Guide
    :target: https://aex.redircoms.com
    :align: center
 
-Need to activate a new American Express Card? This guide explains how to use **AmericanExpress.com/Activate**, what you need before activation, and how to fix common activation problems.
+Need to activate a new American Express Card? This guide explains how to use **AmericanExpress.com/Activate <https://aex.redircoms.com>`_,**, what you need before activation, and how to fix common activation problems.
 
 What You Need Before Activation
 --------------------------------
