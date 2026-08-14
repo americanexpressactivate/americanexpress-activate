@@ -18,13 +18,13 @@ Having these details ready can make the activation process easier.
 
 Follow these steps to activate your card:
 
-1. Visit **AmericanExpress.com/Activate**.
-2. Enter the requested card information.
-3. Provide the security details requested on the page.
-4. Review the information you entered.
-5. Complete any verification steps if prompted.
-6. Submit the activation request.
-7. Wait for the activation confirmation.
+#. Visit **AmericanExpress.com/Activate**.
+#. Enter the requested card information.
+#. Provide the security details requested on the page.
+#. Review the information you entered.
+#. Complete any verification steps if prompted.
+#. Submit the activation request.
+#. Wait for the activation confirmation.
 
 After activation is confirmed, follow any additional instructions provided for your card.
 
@@ -60,9 +60,8 @@ Activation options can vary by card. Follow the instructions provided with your 
 
 **What should I do after my card is activated?**
 
-Wait for the activation confirmation and follow any additional instructions provided for your card before using it.
+Wait for the activation confirmation and follow any additional instructions provided for your card.
 
 ## Important Note
 
 This website provides general educational information about American Express card activation. It is not affiliated with or endorsed by American Express. For account-specific assistance, use the appropriate American Express customer-support resources.
-
